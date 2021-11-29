@@ -1,0 +1,7 @@
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+D:\Corporate\Nordic Academy\C#\Demos\ArrayAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb
